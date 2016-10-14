@@ -709,7 +709,7 @@ nav li {
     text-align: center;
     color: white;
     margin: 0;
-    display: inline;
+    display: none;
   }
 
 }
